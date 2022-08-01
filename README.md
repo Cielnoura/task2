@@ -1,5 +1,5 @@
 #Task-two:
- Programming a web page to control the robot arm using a web page to control the robot arm using web serial API and write the Arduino code for control. 
+ Programming a web page to control the robot arm using a web serial API and write the Arduino code for control. 
  
  
  
